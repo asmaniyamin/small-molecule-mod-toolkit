@@ -1,0 +1,22 @@
+Small Molecule Modification Toolkit
+Required Notice: Copyright 2026 Asmani Yamin
+
+Asmani Yamin Noncommercial Research License 1.0
+SPDX-License-Identifier: LicenseRef-Asmani-Yamin-Noncommercial-Research-1.0
+
+The permissions and conditions are set out in LICENSE. Unmodified copies may
+be used and shared for noncommercial purposes with the required notices.
+Private modifications are permitted for noncommercial research. Commercial use
+and sharing modified versions require Asmani Yamin's prior written permission.
+Independent rights and valid earlier license grants are unaffected.
+
+Molecular-modeling research notice
+
+The software supports computational molecular construction, preparation,
+modification, and analysis, including protein-related modules when distributed. Its outputs do not by themselves establish chemical validity,
+synthetic feasibility, compound safety, toxicity, or efficacy. Users must
+independently validate inputs, methods, and results before relying on them
+for synthesis, experiments, drug discovery, development, or manufacturing.
+See LICENSE for the complete conditions and liability provisions.
+
+Third-party components and dependencies retain their own copyrights and licenses.

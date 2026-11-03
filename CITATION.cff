@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please acknowledge Small Molecule Modification Toolkit by Asmani Yamin and cite this software when publishing research results obtained using it. See LICENSE for permissions and attribution requirements."
+type: software
+title: "Small Molecule Modification Toolkit"
+authors:
+  - family-names: "Yamin"
+    given-names: "Asmani"
+# Custom license: LicenseRef-Asmani-Yamin-Noncommercial-Research-1.0; see LICENSE.

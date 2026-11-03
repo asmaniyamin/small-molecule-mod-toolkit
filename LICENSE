@@ -1,0 +1,183 @@
+# Asmani Yamin Noncommercial Research License 1.0
+
+SPDX-License-Identifier: LicenseRef-Asmani-Yamin-Noncommercial-Research-1.0
+
+Small Molecule Modification Toolkit
+Copyright 2026 Asmani Yamin
+
+## Project Details
+
+The licensor is Asmani Yamin. The software comprises the source code,
+executable components, and accompanying documentation distributed as part of
+Small Molecule Modification Toolkit, including small-molecule and protein-related
+modules when included in a distribution. Third-party components retain their
+separately applicable licenses.
+
+## Acceptance
+
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+
+## Copyright License
+
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
+
+## Distribution License
+
+The licensor grants you an additional copyright license to distribute unmodified
+copies of the software for any permitted purpose. Distribution of modified
+versions requires the licensor's prior written permission.
+
+## Notices
+
+You must ensure that anyone who gets a copy of any part of the software from
+you also gets a copy of these terms and NOTICE, as well as copies of any
+plain-text lines beginning with `Required Notice:` that the licensor provided
+with the software. All copyright and attribution notices must be retained.
+
+## Changes and New Works License
+
+The licensor grants you an additional copyright license to make changes and
+new works based on the software solely for private, noncommercial research.
+Such changes and new works must remain within your controlled research
+environment. Distribution, publication, or disclosure to third parties requires
+the licensor's prior written permission.
+
+## Noncommercial Purposes
+
+Noncommercial purposes consistent with the Research Use and Validation
+conditions below are permitted purposes.
+
+## Research Use and Validation
+
+The software provides computational tools for molecular structure and graph
+construction, preparation, modification, and analysis, including protein-related
+workflows when provided. It is supplied as a research tool, without any
+representation that its algorithms or outputs have been validated for a
+particular small molecule, protein, molecular complex, chemical transformation,
+biological target, assay, or downstream application.
+
+You are responsible for determining whether the software is appropriate for
+your intended use and for independently checking the scientific correctness
+and chemical validity of its inputs, assumptions, transformations, and outputs.
+For protein-related workflows, this includes checking structural preparation,
+atom and residue identities, biological assembly selection, and relevant
+protonation, missing-structure, cofactor, and binding-site assumptions to the
+extent applicable to the intended use.
+Before relying on results for synthesis, experimental work, drug discovery,
+drug development, or manufacturing, you must arrange verification and
+validation appropriate to that use, qualified professional review, and
+compliance with applicable laws and institutional requirements.
+
+A computed structure, score, functional-group assignment, or molecular
+transformation does not by itself establish synthetic feasibility, safety,
+toxicity, biological activity, protein function or stability, binding affinity,
+efficacy, or manufacturability. Permission to
+use the software, including commercial permission, does not constitute the
+licensor's validation, recommendation, or approval of a downstream experiment,
+compound, product, or application.
+
+Maintenance, technical support, correction of errors, and future releases are
+not promised. These conditions allocate responsibilities and do not certify
+results or substitute for appropriate experimental validation and safeguards.
+
+## Personal Uses
+
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+
+## Commercial Use and Separate Permission
+
+Any commercial use requires explicit prior written permission from Asmani Yamin.
+Commercial use means use primarily intended for commercial advantage or monetary
+compensation, including paid products or services, client work, internal business
+operations, and commercial research and development. Academic or nonprofit
+affiliation does not by itself make a commercial activity noncommercial.
+
+Contact Asmani Yamin for written permission identifying any approved commercial
+use or sharing of modified versions and its conditions. Silence is not approval.
+
+## Acknowledgment
+
+For every permitted use, retain acknowledgment of Asmani Yamin's authorship
+in the software and accompanying documentation. Publications, presentations,
+reports, and other publicly shared results obtained using the software must
+acknowledge Small Molecule Modification Toolkit by Asmani Yamin. Publications
+must cite the software using CITATION.cff. Do not imply the licensor's endorsement.
+
+## Fair Use
+
+You may have "fair use" rights for the software under the law. These terms do not limit them.
+
+## No Other Rights
+
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
+
+## Reserved and Existing Rights
+
+No patent or trademark license is granted. Third-party components retain their
+own copyrights and licenses. No ownership of independently created research
+results is claimed.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
+
+## Effect of Termination
+
+If your licenses terminate under the Violations provision, you must cease
+activities that require those licenses and cease distribution of covered
+copies or modifications. Delete those copies and modifications unless their
+retention is required by law or permitted by an independent right. Required
+legal-retention copies must not be used or distributed under this terminated
+license.
+
+Termination does not eliminate obligations arising before termination. The
+Disclaimer of Warranty, Limitation of Liability, Indemnification and Additional
+Obligations, and Reserved and Existing Rights provisions survive termination.
+Independently applicable statutory rights and valid earlier grants are
+unaffected.
+
+## Disclaimer of Warranty
+
+Unless required by applicable law or agreed to in writing, the licensor provides the software on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the software and assume any risks associated with your exercise of permissions under these terms.
+
+Without limiting the foregoing, no representation or warranty is made that the
+software or its outputs are accurate, complete, reliable, error-free, secure,
+or suitable for any particular molecular-modeling, protein-preparation,
+protein-ligand analysis, chemical-synthesis, experimental, manufacturing, or
+drug-development purpose. No oral statement or documentation creates an additional warranty
+unless the licensor expressly agrees in writing.
+
+## Limitation of Liability
+
+In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall the licensor be liable to you for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of these terms or out of the use or inability to use the software (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if the licensor has been advised of the possibility of such damages.
+
+Nothing in these terms excludes or limits liability that cannot lawfully be
+excluded or limited, including any nonwaivable liability for personal injury,
+death, fraud, willful misconduct, or gross negligence under applicable law.
+
+## Indemnification and Additional Obligations
+
+To the extent permitted by law, you shall indemnify, defend, and hold harmless
+the licensor from third-party claims, damages, and reasonable legal costs to
+the extent caused by your use outside the permissions granted here, unlawful
+use, distribution of modifications without required permission, or failure to
+meet the Research Use and Validation conditions. This obligation does not
+extend to claims to the extent caused by the licensor's fraud, willful
+misconduct, gross negligence, or other liability that cannot lawfully be
+shifted to you. This provision survives termination of your licenses.
+
+If you offer support, warranties, or assume additional liability to another
+person, you do so solely on your own behalf and responsibility. You must not
+represent that the licensor has undertaken those obligations.
+
+## Definitions
+
+The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+
+**You** refers to the individual or entity agreeing to these terms.
+
+**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+
+**Your licenses** are all the licenses granted to you for the software under these terms.
+
+**Use** means anything you do with the software requiring one of your licenses.
